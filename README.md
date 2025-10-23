@@ -39,7 +39,7 @@ map.html
     <font color="RED"><b>CHENNAI</b></font>
 </h1>
 <h3 align="center">
-    <font color="blue"><b>ARJUN R S (25017547)</b></font>
+    <font color="blue"><b> MAHA VISHNU S (25018250)</b></font>
 
 </h3>
 <CENTER>
