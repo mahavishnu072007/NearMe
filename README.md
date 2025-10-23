@@ -46,11 +46,11 @@ map.html
 <img src="chennai map.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="kalikambal temple" title="kalikambal temple" href="C:\Users\acer\image\NearMe\Arjun\mapapp\static\kalikambal temple.html" coords="1259,58,1471,209" shape="rect">
-    <area target="" alt="Rohini silver screens" title="Rohini silver screens" href="C:\Users\acer\image\NearMe\Arjun\mapapp\static\Rohini.html" coords="428,273,662,375" shape="rect">
-    <area target="" alt="chennai rail museum" title="chennai rail museum" href="C:\Users\acer\image\NearMe\Arjun\mapapp\static\chennai rail museum.html" coords="334,21,674,99" shape="rect">
-    <area target="" alt="kapaleeshwarar temple" title="kapaleeshwarar temple" href="C:\Users\acer\image\NearMe\Arjun\mapapp\static\kapaleeshwarar.html" coords="940,696,1217,755" shape="rect">
-    <area target="" alt="Marina beach" title="Marina beach" href="C:\Users\acer\image\NearMe\Arjun\mapapp\static\Marina beech.html" coords="1369,451,1265,633" shape="rect">
+    <area target="" alt="kalikambal temple" title="kalikambal temple" href="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\kalikambal temple.html" coords="1259,58,1471,209" shape="rect">
+    <area target="" alt="Rohini silver screens" title="Rohini silver screens" href="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\Rohini.html" coords="428,273,662,375" shape="rect">
+    <area target="" alt="chennai rail museum" title="chennai rail museum" href="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\chennai rail museum.html" coords="334,21,674,99" shape="rect">
+    <area target="" alt="kapaleeshwarar temple" title="kapaleeshwarar temple" href="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\kapaleeshwarar.html" coords="940,696,1217,755" shape="rect">
+    <area target="" alt="Marina beach" title="Marina beach" href="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\Marina beech.html" coords="1369,451,1265,633" shape="rect">
 </map>
 </CENTER>
 </body>
@@ -69,7 +69,7 @@ Rohini.html
 <body bgcolor="purple">
     <center>
     
-<img src="C:\Users\acer\image\NearMe\Arjun\mapapp\static\Rohini silver screens.jpeg" height="400px">
+<img src="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\Rohini silver screens.jpeg" height="400px">
 <h1>ROHINI THEATRE</h1>
 <p>Rohini Silver Screens is a prominent multiplex cinema located in Koyambedu, Chennai, India. Originally founded in the 1990s, it has been renovated with modern amenities to provide a high-quality movie-watching experience. </p>
 
@@ -89,7 +89,7 @@ kalikambal.html
 </head>
 <body bgcolor="yellow">
  <center>
-    <img src="C:\Users\acer\image\NearMe\Arjun\mapapp\static\kalikambal kamadeswarar temple.jpeg">
+    <img src="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\kalikambal kamadeswarar temple.jpeg">
   <h1>KALIKAMBAL TEMPLE</h1> 
   <p>The Arulmigu Kalikambal Temple in Chennai is a historic and significant Hindu temple located in the busy George Town area. The temple, dedicated to the goddesses Kalikambal (a form of Parvati/Kamakshi) and Kamateswarar (a form of Shiva), has a rich history and Dravidian architecture. </p> 
  </center>
@@ -107,7 +107,7 @@ Marina.html
 </head>
 <body bgcolor="green">
     <center>
-        <img src="C:\Users\acer\image\NearMe\Arjun\mapapp\static\Marina beech.jpeg">
+        <img src="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\Marina beech.jpeg">
         <h1>MARINA BEECH</h1>
         <p>Marina Beach is a long, natural sandy urban beach in Chennai, Tamil Nadu, India, and is one of the longest urban beaches in the world. This bustling destination on the Bay of Bengal shoreline is known for its spectacular sunrises and sunsets, lively atmosphere, and rich cultural significance.</p>
     </center>
@@ -125,7 +125,7 @@ kapaleeshwarar.html
 </head>
 <body bgcolor="red">
     <center>
-      <img src="C:\Users\acer\image\NearMe\Arjun\mapapp\static\kapaleeshwarar temple.jpeg">
+      <img src="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\kapaleeshwarar temple.jpeg">
       <h1>KAPALEESHWARAR TEMPLE</h1> 
       <p>The Kapaleeshwarar Temple is a prominent Hindu shrine in Mylapore, Chennai, dedicated to Lord Shiva and Goddess Karpagambal (Parvati). Its magnificent Dravidian architecture, with towering gopurams and colorful sculptures, attracts both devotees and tourists. </p> 
     </center>
@@ -143,7 +143,7 @@ chennai rail museum.html
 </head>
 <body bgcolor="blue">
     <center>
-        <img src="C:\Users\acer\image\NearMe\Arjun\mapapp\static\chennai rail museum.jpeg">
+        <img src="C:\Users\acer\image\NearMe\MAHA VISHNU S\mapapp\static\chennai rail museum.jpeg">
         <h1>CHENNAI RAIL MUSEUM</h1>
         <p>The Chennai Rail Museum showcases the rich history and heritage of Indian Railways and is an excellent attraction for families and train enthusiasts. Managed by the Integral Coach Factory (ICF), the museum is located in the Perambur area of Chennai.</p>
     </center>
